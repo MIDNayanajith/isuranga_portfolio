@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/isuranga_portfolio/static/css/main.4c4bcccd.css",
-    "main.js": "/isuranga_portfolio/static/js/main.eaf15cea.js",
+    "main.js": "/isuranga_portfolio/static/js/main.3b8302f6.js",
     "static/media/about1.png": "/isuranga_portfolio/static/media/about1.d80b6cfbf7ca3f89c4f1.png",
     "static/media/pro4.png": "/isuranga_portfolio/static/media/pro4.0c28a4c0f6a867f23c4d.png",
     "static/media/profile1.png": "/isuranga_portfolio/static/media/profile1.f8e05227e76f0be41972.png",
+    "static/media/M.I.D Nayanajith_cv.pdf": "/isuranga_portfolio/static/media/M.I.D Nayanajith_cv.234f5a8463b0e77d2d0e.pdf",
     "static/media/pro1.png": "/isuranga_portfolio/static/media/pro1.6c5df3107ebd0206ec0f.png",
     "static/media/pro3.png": "/isuranga_portfolio/static/media/pro3.1f7d5b8e5610d818b454.png",
     "static/media/pro2.png": "/isuranga_portfolio/static/media/pro2.18c053883efe1d3f351f.png",
-    "static/media/John-Cv.pdf": "/isuranga_portfolio/static/media/John-Cv.e83747cf513e0b21a7f1.pdf",
     "index.html": "/isuranga_portfolio/index.html",
     "main.4c4bcccd.css.map": "/isuranga_portfolio/static/css/main.4c4bcccd.css.map",
-    "main.eaf15cea.js.map": "/isuranga_portfolio/static/js/main.eaf15cea.js.map"
+    "main.3b8302f6.js.map": "/isuranga_portfolio/static/js/main.3b8302f6.js.map"
   },
   "entrypoints": [
     "static/css/main.4c4bcccd.css",
-    "static/js/main.eaf15cea.js"
+    "static/js/main.3b8302f6.js"
   ]
 }
